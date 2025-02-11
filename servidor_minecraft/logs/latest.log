@@ -143,3 +143,21 @@ gamemode<--[HERE]
 [07:34:31] [Server thread/INFO]: Made soul_newacc a server operator
 [07:34:46] [Server thread/INFO]: soul_newacc issued server command: /gamemode creative
 [07:34:46] [Server thread/INFO]: [soul_newacc: Set own game mode to Creative Mode]
+[07:38:17] [Server thread/INFO]: soul_newacc issued server command: /give soul_newacc minecraft:netherite_sword
+[07:38:17] [Server thread/INFO]: [soul_newacc: Gave 1 [Netherite Sword] to soul_newacc]
+[07:38:32] [Server thread/INFO]: soul_newacc issued server command: /enchant soul_newacc minecraft:smite 32000
+[07:38:41] [Server thread/INFO]: soul_newacc has made the advancement [Monster Hunter]
+[07:39:42] [Server thread/INFO]: soul_newacc issued server command: /gamemode survival
+[07:39:42] [Server thread/INFO]: [soul_newacc: Set own game mode to Survival Mode]
+[07:40:00] [Server thread/INFO]: soul_newacc was blown up by soul_newacc
+[07:40:18] [Server thread/INFO]: soul_newacc issued server command: /give soul_newacc minecraft:obsidian 1000
+[07:40:18] [Server thread/INFO]: soul_newacc has made the advancement [Ice Bucket Challenge]
+[07:40:18] [Server thread/INFO]: [soul_newacc: Gave 1000 [Obsidian] to soul_newacc]
+[07:40:30] [Server thread/INFO]: soul_newacc issued server command: /give soul_newacc minecraft:end_crystal 1000
+[07:40:30] [Server thread/INFO]: [soul_newacc: Gave 1000 [End Crystal] to soul_newacc]
+[07:40:50] [Server thread/INFO]: soul_newacc issued server command: /give soul_newacc minecraft:enchanted_golden_apple 1000
+[07:40:50] [Server thread/INFO]: [soul_newacc: Gave 1000 [Enchanted Golden Apple] to soul_newacc]
+[07:43:13] [Server thread/INFO]: soul_newacc was blown up by soul_newacc
+[07:43:49] [Server thread/INFO]: soul_newacc issued server command: /give soul_newacc minecraft:fire_charge 64
+[07:43:49] [Server thread/INFO]: [soul_newacc: Gave 64 [Fire Charge] to soul_newacc]
+[07:43:58] [Server thread/INFO]: soul_newacc has made the advancement [We Need to Go Deeper]
